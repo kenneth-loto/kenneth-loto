@@ -32,6 +32,10 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kenneth-loto&theme=tokyonight&hide_border=true&ring=51a2ff&fire=51a2ff&currStreakLabel=51a2ff)](https://git.io/streak-stats)
 </div>
 
+#### ⚡ Recent Activity
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 ---
 
 #### 🤝 Let's Connect
