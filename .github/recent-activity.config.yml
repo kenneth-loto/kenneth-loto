@@ -3,7 +3,3 @@ settings:
   max_lines: 5
   commit_name: "github-actions[bot]"
   readme_file: "./README.md"
-
-messages:
-  push: "⬆️ Pushed to {REPO}"
-  git add -A; git commit -m "fix: custom push message without AMOUNT, opt into Node.js 24"; git push origin main
