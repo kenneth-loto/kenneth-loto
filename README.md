@@ -33,13 +33,9 @@
 </div>
 
 #### ⚡ Recent Activity
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/kenneth-loto/paluwagan/pull/2) in [kenneth-loto/paluwagan](https://github.com/kenneth-loto/paluwagan)
-2. 💪 Opened PR [#2](https://github.com/kenneth-loto/paluwagan/pull/2) in [kenneth-loto/paluwagan](https://github.com/kenneth-loto/paluwagan)
-3. 🎉 Merged PR [#1](https://github.com/kenneth-loto/paluwagan/pull/1) in [kenneth-loto/paluwagan](https://github.com/kenneth-loto/paluwagan)
-4. 💪 Opened PR [#1](https://github.com/kenneth-loto/paluwagan/pull/1) in [kenneth-loto/paluwagan](https://github.com/kenneth-loto/paluwagan)
-5. 🎉 Merged PR [#87](https://github.com/kenneth-loto/portfolio-lite/pull/87) in [kenneth-loto/portfolio-lite](https://github.com/kenneth-loto/portfolio-lite)
-<!--END_SECTION:activity-->
+
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:last_update-->
 
 ---
 

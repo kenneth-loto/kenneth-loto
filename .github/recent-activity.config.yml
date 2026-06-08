@@ -1,0 +1,5 @@
+settings:
+  commit_msg: "chore: update recent activity"
+  max_lines: 5
+  commit_name: "github-actions[bot]"
+  readme_file: "./README.md"
