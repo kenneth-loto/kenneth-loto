@@ -1,8 +1,7 @@
 name: Update GitHub Activity
-
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 16 * * *" # 12:00 AM PHT (UTC+8)
   workflow_dispatch:
 
 permissions:
@@ -15,6 +14,7 @@ jobs:
     timeout-minutes: 5
     steps:
       - uses: actions/checkout@v4
+
       - uses: jamesgeorge007/github-activity-readme@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -22,3 +22,8 @@ jobs:
           COMMIT_MSG: "chore: update recent activity"
           MAX_LINES: 5
           COMMIT_NAME: "github-actions[bot]"
+          COMMIT_EMAIL: "github-actions[bot]@users.noreply.github.com"
+
+      - name: Keep workflow alive
+        if: always()
+        uses: gautamkrishnar/keepalive-workflow@v2
