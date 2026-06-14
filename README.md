@@ -35,11 +35,11 @@
 #### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#97](https://github.com/kenneth-loto/portfolio-lite/pull/97) in [kenneth-loto/portfolio-lite](https://github.com/kenneth-loto/portfolio-lite)
-2. 💪 Opened PR [#97](https://github.com/kenneth-loto/portfolio-lite/pull/97) in [kenneth-loto/portfolio-lite](https://github.com/kenneth-loto/portfolio-lite)
-3. 🎉 Merged PR [#96](https://github.com/kenneth-loto/portfolio-lite/pull/96) in [kenneth-loto/portfolio-lite](https://github.com/kenneth-loto/portfolio-lite)
-4. 💪 Opened PR [#96](https://github.com/kenneth-loto/portfolio-lite/pull/96) in [kenneth-loto/portfolio-lite](https://github.com/kenneth-loto/portfolio-lite)
-5. 🎉 Merged PR [#1](https://github.com/kenneth-loto/stockpilot/pull/1) in [kenneth-loto/stockpilot](https://github.com/kenneth-loto/stockpilot)
+1. 🎉 Merged PR [#7](https://github.com/HarveyDangel/stylish-living-furniture/pull/7) in [HarveyDangel/stylish-living-furniture](https://github.com/HarveyDangel/stylish-living-furniture)
+2. 💪 Opened PR [#7](https://github.com/HarveyDangel/stylish-living-furniture/pull/7) in [HarveyDangel/stylish-living-furniture](https://github.com/HarveyDangel/stylish-living-furniture)
+3. 🎉 Merged PR [#101](https://github.com/kenneth-loto/portfolio-lite/pull/101) in [kenneth-loto/portfolio-lite](https://github.com/kenneth-loto/portfolio-lite)
+4. 💪 Opened PR [#101](https://github.com/kenneth-loto/portfolio-lite/pull/101) in [kenneth-loto/portfolio-lite](https://github.com/kenneth-loto/portfolio-lite)
+5. 🎉 Merged PR [#100](https://github.com/kenneth-loto/portfolio-lite/pull/100) in [kenneth-loto/portfolio-lite](https://github.com/kenneth-loto/portfolio-lite)
 <!--END_SECTION:activity-->
 
 ---
