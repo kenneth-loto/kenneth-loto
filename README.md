@@ -35,11 +35,11 @@
 #### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4](https://github.com/HarveyDangel/stylish-living-furniture/issues/4#issuecomment-4730918042) in [HarveyDangel/stylish-living-furniture](https://github.com/HarveyDangel/stylish-living-furniture)
-2. 🎉 Merged PR [#22](https://github.com/HarveyDangel/stylish-living-furniture/pull/22) in [HarveyDangel/stylish-living-furniture](https://github.com/HarveyDangel/stylish-living-furniture)
-3. 💪 Opened PR [#22](https://github.com/HarveyDangel/stylish-living-furniture/pull/22) in [HarveyDangel/stylish-living-furniture](https://github.com/HarveyDangel/stylish-living-furniture)
-4. 🎉 Merged PR [#19](https://github.com/HarveyDangel/stylish-living-furniture/pull/19) in [HarveyDangel/stylish-living-furniture](https://github.com/HarveyDangel/stylish-living-furniture)
-5. 💪 Opened PR [#19](https://github.com/HarveyDangel/stylish-living-furniture/pull/19) in [HarveyDangel/stylish-living-furniture](https://github.com/HarveyDangel/stylish-living-furniture)
+1. 💪 Opened PR [#6](https://github.com/kenneth-loto/lindol-ph/pull/6) in [kenneth-loto/lindol-ph](https://github.com/kenneth-loto/lindol-ph)
+2. 💪 Opened PR [#5](https://github.com/kenneth-loto/lindol-ph/pull/5) in [kenneth-loto/lindol-ph](https://github.com/kenneth-loto/lindol-ph)
+3. 🎉 Merged PR [#4](https://github.com/kenneth-loto/lindol-ph/pull/4) in [kenneth-loto/lindol-ph](https://github.com/kenneth-loto/lindol-ph)
+4. 💪 Opened PR [#4](https://github.com/kenneth-loto/lindol-ph/pull/4) in [kenneth-loto/lindol-ph](https://github.com/kenneth-loto/lindol-ph)
+5. 💪 Opened PR [#3](https://github.com/kenneth-loto/lindol-ph/pull/3) in [kenneth-loto/lindol-ph](https://github.com/kenneth-loto/lindol-ph)
 <!--END_SECTION:activity-->
 
 ---
