@@ -35,11 +35,11 @@
 #### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#6](https://github.com/kenneth-loto/lindol-ph/pull/6) in [kenneth-loto/lindol-ph](https://github.com/kenneth-loto/lindol-ph)
-2. 💪 Opened PR [#5](https://github.com/kenneth-loto/lindol-ph/pull/5) in [kenneth-loto/lindol-ph](https://github.com/kenneth-loto/lindol-ph)
-3. 🎉 Merged PR [#4](https://github.com/kenneth-loto/lindol-ph/pull/4) in [kenneth-loto/lindol-ph](https://github.com/kenneth-loto/lindol-ph)
-4. 💪 Opened PR [#4](https://github.com/kenneth-loto/lindol-ph/pull/4) in [kenneth-loto/lindol-ph](https://github.com/kenneth-loto/lindol-ph)
-5. 💪 Opened PR [#3](https://github.com/kenneth-loto/lindol-ph/pull/3) in [kenneth-loto/lindol-ph](https://github.com/kenneth-loto/lindol-ph)
+1. 💪 Opened PR [#8](https://github.com/kenneth-loto/lindol-ph/pull/8) in [kenneth-loto/lindol-ph](https://github.com/kenneth-loto/lindol-ph)
+2. 💪 Opened PR [#7](https://github.com/kenneth-loto/lindol-ph/pull/7) in [kenneth-loto/lindol-ph](https://github.com/kenneth-loto/lindol-ph)
+3. 💪 Opened PR [#6](https://github.com/kenneth-loto/lindol-ph/pull/6) in [kenneth-loto/lindol-ph](https://github.com/kenneth-loto/lindol-ph)
+4. 💪 Opened PR [#5](https://github.com/kenneth-loto/lindol-ph/pull/5) in [kenneth-loto/lindol-ph](https://github.com/kenneth-loto/lindol-ph)
+5. 🎉 Merged PR [#4](https://github.com/kenneth-loto/lindol-ph/pull/4) in [kenneth-loto/lindol-ph](https://github.com/kenneth-loto/lindol-ph)
 <!--END_SECTION:activity-->
 
 ---
