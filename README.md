@@ -35,11 +35,11 @@
 #### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#35](https://github.com/kenneth-loto/lindol-ph/issues/35) in [kenneth-loto/lindol-ph](https://github.com/kenneth-loto/lindol-ph)
-2. 🗣 Commented on [#35](https://github.com/kenneth-loto/lindol-ph/issues/35#issuecomment-4819272442) in [kenneth-loto/lindol-ph](https://github.com/kenneth-loto/lindol-ph)
-3. 🔒 Closed issue [#36](https://github.com/kenneth-loto/lindol-ph/issues/36) in [kenneth-loto/lindol-ph](https://github.com/kenneth-loto/lindol-ph)
-4. 🗣 Commented on [#36](https://github.com/kenneth-loto/lindol-ph/issues/36#issuecomment-4819266980) in [kenneth-loto/lindol-ph](https://github.com/kenneth-loto/lindol-ph)
-5. 🔒 Closed issue [#27](https://github.com/kenneth-loto/lindol-ph/issues/27) in [kenneth-loto/lindol-ph](https://github.com/kenneth-loto/lindol-ph)
+1. 🎉 Merged PR [#4](https://github.com/kenneth-loto/taskforge-api/pull/4) in [kenneth-loto/taskforge-api](https://github.com/kenneth-loto/taskforge-api)
+2. 💪 Opened PR [#4](https://github.com/kenneth-loto/taskforge-api/pull/4) in [kenneth-loto/taskforge-api](https://github.com/kenneth-loto/taskforge-api)
+3. 🎉 Merged PR [#3](https://github.com/kenneth-loto/taskforge-api/pull/3) in [kenneth-loto/taskforge-api](https://github.com/kenneth-loto/taskforge-api)
+4. 💪 Opened PR [#3](https://github.com/kenneth-loto/taskforge-api/pull/3) in [kenneth-loto/taskforge-api](https://github.com/kenneth-loto/taskforge-api)
+5. 🎉 Merged PR [#2](https://github.com/kenneth-loto/taskforge-api/pull/2) in [kenneth-loto/taskforge-api](https://github.com/kenneth-loto/taskforge-api)
 <!--END_SECTION:activity-->
 
 ---
