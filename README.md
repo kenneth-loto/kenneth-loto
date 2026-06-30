@@ -35,11 +35,11 @@
 #### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/kenneth-loto/taskforge-api/pull/4) in [kenneth-loto/taskforge-api](https://github.com/kenneth-loto/taskforge-api)
-2. 💪 Opened PR [#4](https://github.com/kenneth-loto/taskforge-api/pull/4) in [kenneth-loto/taskforge-api](https://github.com/kenneth-loto/taskforge-api)
-3. 🎉 Merged PR [#3](https://github.com/kenneth-loto/taskforge-api/pull/3) in [kenneth-loto/taskforge-api](https://github.com/kenneth-loto/taskforge-api)
-4. 💪 Opened PR [#3](https://github.com/kenneth-loto/taskforge-api/pull/3) in [kenneth-loto/taskforge-api](https://github.com/kenneth-loto/taskforge-api)
-5. 🎉 Merged PR [#2](https://github.com/kenneth-loto/taskforge-api/pull/2) in [kenneth-loto/taskforge-api](https://github.com/kenneth-loto/taskforge-api)
+1. 🎉 Merged PR [#8](https://github.com/kenneth-loto/taskforge-api/pull/8) in [kenneth-loto/taskforge-api](https://github.com/kenneth-loto/taskforge-api)
+2. 💪 Opened PR [#8](https://github.com/kenneth-loto/taskforge-api/pull/8) in [kenneth-loto/taskforge-api](https://github.com/kenneth-loto/taskforge-api)
+3. 🎉 Merged PR [#7](https://github.com/kenneth-loto/taskforge-api/pull/7) in [kenneth-loto/taskforge-api](https://github.com/kenneth-loto/taskforge-api)
+4. 💪 Opened PR [#7](https://github.com/kenneth-loto/taskforge-api/pull/7) in [kenneth-loto/taskforge-api](https://github.com/kenneth-loto/taskforge-api)
+5. 🎉 Merged PR [#6](https://github.com/kenneth-loto/taskforge-api/pull/6) in [kenneth-loto/taskforge-api](https://github.com/kenneth-loto/taskforge-api)
 <!--END_SECTION:activity-->
 
 ---
