@@ -35,11 +35,11 @@
 #### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/kenneth-loto/solar-shading-estimator-api/pull/2) in [kenneth-loto/solar-shading-estimator-api](https://github.com/kenneth-loto/solar-shading-estimator-api)
-2. 💪 Opened PR [#2](https://github.com/kenneth-loto/solar-shading-estimator-api/pull/2) in [kenneth-loto/solar-shading-estimator-api](https://github.com/kenneth-loto/solar-shading-estimator-api)
-3. 🎉 Merged PR [#1](https://github.com/kenneth-loto/solar-shading-estimator-api/pull/1) in [kenneth-loto/solar-shading-estimator-api](https://github.com/kenneth-loto/solar-shading-estimator-api)
-4. 💪 Opened PR [#1](https://github.com/kenneth-loto/solar-shading-estimator-api/pull/1) in [kenneth-loto/solar-shading-estimator-api](https://github.com/kenneth-loto/solar-shading-estimator-api)
-5. 🎉 Merged PR [#16](https://github.com/kenneth-loto/taskforge-api/pull/16) in [kenneth-loto/taskforge-api](https://github.com/kenneth-loto/taskforge-api)
+1. 🎉 Merged PR [#8](https://github.com/kenneth-loto/solar-shading-estimator-api/pull/8) in [kenneth-loto/solar-shading-estimator-api](https://github.com/kenneth-loto/solar-shading-estimator-api)
+2. 💪 Opened PR [#8](https://github.com/kenneth-loto/solar-shading-estimator-api/pull/8) in [kenneth-loto/solar-shading-estimator-api](https://github.com/kenneth-loto/solar-shading-estimator-api)
+3. 🎉 Merged PR [#7](https://github.com/kenneth-loto/solar-shading-estimator-api/pull/7) in [kenneth-loto/solar-shading-estimator-api](https://github.com/kenneth-loto/solar-shading-estimator-api)
+4. 💪 Opened PR [#7](https://github.com/kenneth-loto/solar-shading-estimator-api/pull/7) in [kenneth-loto/solar-shading-estimator-api](https://github.com/kenneth-loto/solar-shading-estimator-api)
+5. 🎉 Merged PR [#6](https://github.com/kenneth-loto/solar-shading-estimator-api/pull/6) in [kenneth-loto/solar-shading-estimator-api](https://github.com/kenneth-loto/solar-shading-estimator-api)
 <!--END_SECTION:activity-->
 
 ---
