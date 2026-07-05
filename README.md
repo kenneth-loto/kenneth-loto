@@ -35,11 +35,11 @@
 #### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#12](https://github.com/kenneth-loto/solar-shading-estimator-api/pull/12) in [kenneth-loto/solar-shading-estimator-api](https://github.com/kenneth-loto/solar-shading-estimator-api)
-2. 💪 Opened PR [#12](https://github.com/kenneth-loto/solar-shading-estimator-api/pull/12) in [kenneth-loto/solar-shading-estimator-api](https://github.com/kenneth-loto/solar-shading-estimator-api)
-3. 🎉 Merged PR [#11](https://github.com/kenneth-loto/solar-shading-estimator-api/pull/11) in [kenneth-loto/solar-shading-estimator-api](https://github.com/kenneth-loto/solar-shading-estimator-api)
-4. 💪 Opened PR [#11](https://github.com/kenneth-loto/solar-shading-estimator-api/pull/11) in [kenneth-loto/solar-shading-estimator-api](https://github.com/kenneth-loto/solar-shading-estimator-api)
-5. 🎉 Merged PR [#10](https://github.com/kenneth-loto/solar-shading-estimator-api/pull/10) in [kenneth-loto/solar-shading-estimator-api](https://github.com/kenneth-loto/solar-shading-estimator-api)
+1. 🎉 Merged PR [#2](https://github.com/kenneth-loto/solar-shading-estimator-api-docs/pull/2) in [kenneth-loto/solar-shading-estimator-api-docs](https://github.com/kenneth-loto/solar-shading-estimator-api-docs)
+2. 💪 Opened PR [#2](https://github.com/kenneth-loto/solar-shading-estimator-api-docs/pull/2) in [kenneth-loto/solar-shading-estimator-api-docs](https://github.com/kenneth-loto/solar-shading-estimator-api-docs)
+3. 🎉 Merged PR [#1](https://github.com/kenneth-loto/solar-shading-estimator-api-docs/pull/1) in [kenneth-loto/solar-shading-estimator-api-docs](https://github.com/kenneth-loto/solar-shading-estimator-api-docs)
+4. 💪 Opened PR [#1](https://github.com/kenneth-loto/solar-shading-estimator-api-docs/pull/1) in [kenneth-loto/solar-shading-estimator-api-docs](https://github.com/kenneth-loto/solar-shading-estimator-api-docs)
+5. 🎉 Merged PR [#12](https://github.com/kenneth-loto/solar-shading-estimator-api/pull/12) in [kenneth-loto/solar-shading-estimator-api](https://github.com/kenneth-loto/solar-shading-estimator-api)
 <!--END_SECTION:activity-->
 
 ---
