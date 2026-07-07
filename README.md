@@ -35,11 +35,11 @@
 #### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/kenneth-loto/solar-shading-estimator-api-docs/pull/6) in [kenneth-loto/solar-shading-estimator-api-docs](https://github.com/kenneth-loto/solar-shading-estimator-api-docs)
-2. 💪 Opened PR [#6](https://github.com/kenneth-loto/solar-shading-estimator-api-docs/pull/6) in [kenneth-loto/solar-shading-estimator-api-docs](https://github.com/kenneth-loto/solar-shading-estimator-api-docs)
-3. 🎉 Merged PR [#5](https://github.com/kenneth-loto/solar-shading-estimator-api-docs/pull/5) in [kenneth-loto/solar-shading-estimator-api-docs](https://github.com/kenneth-loto/solar-shading-estimator-api-docs)
-4. 💪 Opened PR [#5](https://github.com/kenneth-loto/solar-shading-estimator-api-docs/pull/5) in [kenneth-loto/solar-shading-estimator-api-docs](https://github.com/kenneth-loto/solar-shading-estimator-api-docs)
-5. 🎉 Merged PR [#4](https://github.com/kenneth-loto/solar-shading-estimator-api-docs/pull/4) in [kenneth-loto/solar-shading-estimator-api-docs](https://github.com/kenneth-loto/solar-shading-estimator-api-docs)
+1. 🎉 Merged PR [#40](https://github.com/kenneth-loto/lindol-ph/pull/40) in [kenneth-loto/lindol-ph](https://github.com/kenneth-loto/lindol-ph)
+2. 💪 Opened PR [#40](https://github.com/kenneth-loto/lindol-ph/pull/40) in [kenneth-loto/lindol-ph](https://github.com/kenneth-loto/lindol-ph)
+3. 🎉 Merged PR [#39](https://github.com/kenneth-loto/lindol-ph/pull/39) in [kenneth-loto/lindol-ph](https://github.com/kenneth-loto/lindol-ph)
+4. 💪 Opened PR [#39](https://github.com/kenneth-loto/lindol-ph/pull/39) in [kenneth-loto/lindol-ph](https://github.com/kenneth-loto/lindol-ph)
+5. 🎉 Merged PR [#16](https://github.com/kenneth-loto/solar-shading-estimator-api/pull/16) in [kenneth-loto/solar-shading-estimator-api](https://github.com/kenneth-loto/solar-shading-estimator-api)
 <!--END_SECTION:activity-->
 
 ---
