@@ -35,11 +35,11 @@
 #### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#12](https://github.com/kenneth-loto/solar-shading-estimator-api-docs/pull/12) in [kenneth-loto/solar-shading-estimator-api-docs](https://github.com/kenneth-loto/solar-shading-estimator-api-docs)
-2. 💪 Opened PR [#12](https://github.com/kenneth-loto/solar-shading-estimator-api-docs/pull/12) in [kenneth-loto/solar-shading-estimator-api-docs](https://github.com/kenneth-loto/solar-shading-estimator-api-docs)
-3. 🎉 Merged PR [#11](https://github.com/kenneth-loto/solar-shading-estimator-api-docs/pull/11) in [kenneth-loto/solar-shading-estimator-api-docs](https://github.com/kenneth-loto/solar-shading-estimator-api-docs)
-4. 💪 Opened PR [#11](https://github.com/kenneth-loto/solar-shading-estimator-api-docs/pull/11) in [kenneth-loto/solar-shading-estimator-api-docs](https://github.com/kenneth-loto/solar-shading-estimator-api-docs)
-5. 🎉 Merged PR [#10](https://github.com/kenneth-loto/solar-shading-estimator-api-docs/pull/10) in [kenneth-loto/solar-shading-estimator-api-docs](https://github.com/kenneth-loto/solar-shading-estimator-api-docs)
+1. 🎉 Merged PR [#114](https://github.com/kenneth-loto/portfolio-lite/pull/114) in [kenneth-loto/portfolio-lite](https://github.com/kenneth-loto/portfolio-lite)
+2. 🎉 Merged PR [#115](https://github.com/kenneth-loto/portfolio-lite/pull/115) in [kenneth-loto/portfolio-lite](https://github.com/kenneth-loto/portfolio-lite)
+3. 💪 Opened PR [#115](https://github.com/kenneth-loto/portfolio-lite/pull/115) in [kenneth-loto/portfolio-lite](https://github.com/kenneth-loto/portfolio-lite)
+4. 💪 Opened PR [#114](https://github.com/kenneth-loto/portfolio-lite/pull/114) in [kenneth-loto/portfolio-lite](https://github.com/kenneth-loto/portfolio-lite)
+5. 🎉 Merged PR [#113](https://github.com/kenneth-loto/portfolio-lite/pull/113) in [kenneth-loto/portfolio-lite](https://github.com/kenneth-loto/portfolio-lite)
 <!--END_SECTION:activity-->
 
 ---
