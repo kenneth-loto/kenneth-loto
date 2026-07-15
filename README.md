@@ -35,11 +35,11 @@
 #### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#121](https://github.com/kenneth-loto/portfolio-lite/pull/121) in [kenneth-loto/portfolio-lite](https://github.com/kenneth-loto/portfolio-lite)
-2. 💪 Opened PR [#121](https://github.com/kenneth-loto/portfolio-lite/pull/121) in [kenneth-loto/portfolio-lite](https://github.com/kenneth-loto/portfolio-lite)
-3. 🎉 Merged PR [#120](https://github.com/kenneth-loto/portfolio-lite/pull/120) in [kenneth-loto/portfolio-lite](https://github.com/kenneth-loto/portfolio-lite)
-4. 💪 Opened PR [#120](https://github.com/kenneth-loto/portfolio-lite/pull/120) in [kenneth-loto/portfolio-lite](https://github.com/kenneth-loto/portfolio-lite)
-5. 🎉 Merged PR [#119](https://github.com/kenneth-loto/portfolio-lite/pull/119) in [kenneth-loto/portfolio-lite](https://github.com/kenneth-loto/portfolio-lite)
+1. 🎉 Merged PR [#123](https://github.com/kenneth-loto/portfolio-lite/pull/123) in [kenneth-loto/portfolio-lite](https://github.com/kenneth-loto/portfolio-lite)
+2. 💪 Opened PR [#123](https://github.com/kenneth-loto/portfolio-lite/pull/123) in [kenneth-loto/portfolio-lite](https://github.com/kenneth-loto/portfolio-lite)
+3. 🎉 Merged PR [#122](https://github.com/kenneth-loto/portfolio-lite/pull/122) in [kenneth-loto/portfolio-lite](https://github.com/kenneth-loto/portfolio-lite)
+4. 💪 Opened PR [#122](https://github.com/kenneth-loto/portfolio-lite/pull/122) in [kenneth-loto/portfolio-lite](https://github.com/kenneth-loto/portfolio-lite)
+5. 🎉 Merged PR [#121](https://github.com/kenneth-loto/portfolio-lite/pull/121) in [kenneth-loto/portfolio-lite](https://github.com/kenneth-loto/portfolio-lite)
 <!--END_SECTION:activity-->
 
 ---
