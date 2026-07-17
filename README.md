@@ -1,6 +1,10 @@
 ## Hi, I'm Kenneth Loto 👋
 
-* **Full-Stack Developer** — I build full-stack web applications and care deeply about how they're structured. Good code works today and is easy to change tomorrow.
+* Detail-oriented Full-Stack Developer with backend-leaning experience in Laravel, NestJS, and React/TypeScript. 
+ Built a geospatial health monitoring web app with interactive heatmap and 3D choropleth visualizations, and 
+ independently shipped a NestJS REST API backed by a CI/CD pipeline, automated testing, and CodeQL security 
+ scanning. Applies production practices like rate limiting, caching, and containerized deployment even to 
+ independent projects. 
 
 * **Bachelor of Science in Computer Science**, *Biliran Province State University (BiPSU)*, 2025
 
