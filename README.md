@@ -19,7 +19,6 @@
 ![Drizzle ORM](https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black)
 ![Neon](https://img.shields.io/badge/Neon-00E699?style=for-the-badge&logo=neon&logoColor=black)
 ![Better Auth](https://img.shields.io/badge/Better_Auth-51a2ff?style=for-the-badge&logoColor=white)
-![oRPC](https://img.shields.io/badge/oRPC-F97316?style=for-the-badge&logoColor=white)
 
 </div>
 
