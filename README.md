@@ -1,6 +1,6 @@
 ## Hi, I'm Kenneth Loto 👋
 
-* Detail-oriented Full-Stack Developer with backend-leaning experience in Laravel, NestJS, and React/TypeScript. 
+* Full-Stack Developer with backend-leaning experience in Laravel, NestJS, and React/TypeScript. 
  Built a geospatial health monitoring web app with interactive heatmap and 3D choropleth visualizations, and 
  independently shipped a NestJS REST API backed by a CI/CD pipeline, automated testing, and CodeQL security 
  scanning.
