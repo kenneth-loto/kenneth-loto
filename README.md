@@ -1,6 +1,6 @@
 ## Hi, I'm Kenneth Loto 👋
 
-* Full-Stack Developer with experience in Laravel, NestJS, and React/TypeScript.
+* Full-Stack Developer
 
 * **Bachelor of Science in Computer Science**, *Biliran Province State University (BiPSU)*, 2025
 
