@@ -1,6 +1,4 @@
-## Hi, I'm Kenneth Loto 👋
-
-* Full-Stack Developer
+## Hi, I'm Kenneth Loto 
 
 * **Bachelor of Science in Computer Science**, *Biliran Province State University (BiPSU)*, 2025
 
