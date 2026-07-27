@@ -40,7 +40,7 @@
 
 #### 🤝 Let's Connect
 
-* Always open to discussing new projects, and opportunities. Drop a message!
+* Always open to discussing new projects, and opportunities. Just drop a message!
 
 <div align="center">
   <a href="https://www.linkedin.com/in/kenneth-loto"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
