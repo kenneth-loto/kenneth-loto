@@ -2,12 +2,6 @@
 
 * **Bachelor of Science in Computer Science**, *Biliran Province State University (BiPSU)*, 2025
 
----
-
-#### 🛠️ Tech Stack
-
----
-
 #### 📊 GitHub Stats
 
 <div align="center">
