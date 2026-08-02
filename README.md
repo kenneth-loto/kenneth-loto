@@ -1,7 +1,5 @@
 ## Hi, I'm Kenneth Loto 
 
-* **Bachelor of Science in Computer Science**, *Biliran Province State University (BiPSU)*, 2025
-
 #### 📊 GitHub Stats
 
 <div align="center">
