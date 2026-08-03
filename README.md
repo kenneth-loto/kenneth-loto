@@ -21,12 +21,3 @@
 <!--END_SECTION:activity-->
 
 ---
-
-#### 🤝 Let's Connect
-
-* Always open to discussing new projects or opportunities. Drop a message!
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/kenneth-loto"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:kennethloto.dev@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</div>
