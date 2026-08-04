@@ -1,4 +1,4 @@
-## Hi, I'm Kenneth Loto 
+## Hi, I'm Kenneth
 
 #### 📊 GitHub Stats
 
